@@ -1,2 +1,10 @@
 # slerp
-Slerp animation made using Eigen and OpenGL (GLUT)
+![Slerp Animation gif](slerp.gif)
+
+## Requirements
+- OpenGL
+- Eigen C++ Library
+
+## Run
+- make
+- ./slerp
